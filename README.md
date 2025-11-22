@@ -17,7 +17,6 @@
 - 💻 Full-stack developer (Ruby on Rails + React), with a strong focus on backend architecture and API design
 - 🌍 I've lived in Brazil 🇧🇷, Ireland 🇮🇪, and the Netherlands 🇳🇱 — now living in Portugal 🇵🇹
 - 🧠 Currently learning: React (advanced patterns), Node, Kubernetes, AWS
-- 🤖 Passionate about AI, developer experience, and automation
 - 🥋 Jiu-Jitsu practitioner
 
 ---
