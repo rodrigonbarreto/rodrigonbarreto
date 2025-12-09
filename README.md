@@ -53,4 +53,4 @@ Focus on full-stack MVP development, software architecture, agile project manage
 
 ### 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/rodrigonbarreto
+- email: contact@rodrigobarreto.info
