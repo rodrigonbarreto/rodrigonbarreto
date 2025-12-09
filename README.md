@@ -16,7 +16,6 @@
 
 - 💻 Full-stack developer with a strong focus on backend architecture and API design
 - 🧠 Currently learning: React (advanced patterns), Node, Kubernetes, AWS
-- 🥋 Jiu-Jitsu practitioner
 
 ---
 
