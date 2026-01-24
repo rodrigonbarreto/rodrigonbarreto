@@ -42,8 +42,6 @@
 
 Focus on full-stack MVP development, software architecture, agile project management, and software quality assurance using **Python, FastAPI, and React**.
 
-**Projects developed with FastAPI + React**
-
 #### **Bachelor of Information Systems**
 
 **University of Salgado de Oliveira** — 2010–2014
