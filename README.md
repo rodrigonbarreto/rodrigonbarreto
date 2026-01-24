@@ -22,7 +22,7 @@
 
 **Backend (main focus):**
 
-- Ruby on Rails • Grape API • Laravel • Node • Python
+- Ruby on Rails • Grape API • Laravel • Node
 
 **Frontend:**
 
