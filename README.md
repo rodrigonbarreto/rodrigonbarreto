@@ -22,7 +22,7 @@
 
 **Backend (main focus):**
 
-- Ruby on Rails • Grape API • Laravel • Node
+- Ruby on Rails • Grape API • C# .NET
 
 **Frontend:**
 
@@ -30,7 +30,7 @@
 
 **DevOps & Tools:**
 
-- Docker • PostgreSQL • Redis • Sidekiq/GoodJob • Heroku • Railway • AWS
+- Docker • PostgreSQL • SQL SERVER, Redis • Sidekiq/GoodJob • Heroku • Railway • AWS
 
 ---
 
