@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-Senior engineer with 10+ years building backend systems across fintech, HR tech, e-commerce, and SaaS. I've worked as a Lead Engineer and across the full stack, with Ruby on Rails as my main tool. Lived and worked in the Netherlands for 6 years, now based in Porto, Portugal.
+Senior engineer with 10+ years building backend systems across fintech, HR tech, e-commerce, and SaaS. My background started with .NET and C#, building systems in the oil & gas sector, before I moved into Ruby on Rails, which has been my main tool ever since. I've worked as a Lead Engineer and across the full stack. Lived and worked in the Netherlands for 6 years, now based in Porto, Portugal.
 
 I write about software engineering on [Dev.to](https://dev.to/rodrigonbarreto) and maintain a couple of open-source Ruby gems.
 
